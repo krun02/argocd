@@ -23,4 +23,5 @@ serviceAccount:
   create: true
   annotations: {}
   name: ""
-
+autoscaling:
+  enabled: false
