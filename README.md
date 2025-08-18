@@ -170,5 +170,8 @@ kubectl -n demo get deploy,svc,cm,pods
 ```
 Open UI → https://localhost:8080
 
+![Argo CD Dashboard](./argocd-deployment-nginx.png)
+
+![Nginx version](./nginx-deployment-version.png)
 
 
