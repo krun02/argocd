@@ -1,6 +1,6 @@
 # Argo CD + Helm Nginx Demo (with Minikube)
 
-This repository shows how to deploy a simple **Nginx application** on Kubernetes using **Helm** and manage it with **Argo CD** (GitOps workflow).
+## This repository shows how to deploy a simple **Nginx application** on Kubernetes using **Helm** and manage it with **Argo CD** (GitOps workflow).
 
 ---
 
